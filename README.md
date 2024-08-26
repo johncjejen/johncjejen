@@ -1,5 +1,5 @@
 
-Hi, I'm John Jejen, a passionate software developer from Colombia. I am a developer who is passionate about coding, I enjoy programming, and every new project is a challenge for me.
+Hi, I'm John Jejen, a passionate software developer from Colombia, living in Canada. I am a developer who is passionate about coding, I enjoy programming, and every new project is a challenge for me.
 
 Languages:
 
