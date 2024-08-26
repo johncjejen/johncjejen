@@ -1,8 +1,5 @@
 
-Hi, I'm John Jejen, a passionate software developer from Colombia. I am a developer who is passionate about what he does, I enjoy programming, and every new project is a challenge for me. In September I decided to move to Canada, and that's why I couldn't continue working at my previous company. I am always looking for new challenges and willing to collaborate in whatever is needed.
-
-I am also passionate about constant learning, I am currently taking a React course to be able to complement my profile a little to become a full stack.
-
+Hi, I'm John Jejen, a passionate software developer from Colombia. I am a developer who is passionate about coding, I enjoy programming, and every new project is a challenge for me.
 
 Languages:
 
