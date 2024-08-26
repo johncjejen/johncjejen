@@ -5,6 +5,7 @@ Languages:
 
 <ul>
  <li>Ruby on Rails</li>
+ <li>Css</li>
  <li>Node.js</li>
  <li>React</li>
  <li>Html</li>
@@ -30,6 +31,9 @@ Skills:
  <li>Postman</li>
  <li>Sidekiq</li>
  <li>Microservices</li>
+ <li>Boostrap</li>
+ <li>Rspec</li>
+ <li>REST</li>
 </ul>
 
 
